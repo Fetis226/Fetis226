@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fetis226
-- 👀 I’m interested in Python, Java
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python, Java, django, html and css
+- 🌱 I’m currently learning Python, django, html and css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
